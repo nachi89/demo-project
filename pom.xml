@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>demo-project</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>DemoProject</name>
 	<description>Demo project</description>
 
@@ -10,7 +10,7 @@
 		<url>https://github.com/nachi89/demo-project</url>
 		<connection>scm:git:ssh://github.com:nachi89/demo-project.git</connection>
 		<developerConnection>scm:git:git@github.com:nachi89/demo-project.git</developerConnection>
-		<tag>demo-project-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
