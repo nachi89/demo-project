@@ -6,30 +6,30 @@
 	<name>DemoProject</name>
 	<description>Demo project</description>
 
-	<scm>
-		<url>https://github.com/nachi89/demo-project</url>
-		<connection>scm:git:ssh://github.com:nachi89/demo-project.git</connection>
-		<developerConnection>scm:git:git@github.com:nachi89/demo-project.git</developerConnection>
-    <tag>HEAD</tag>
-  </scm>
+<!-- 	<scm> -->
+<!-- 		<url>https://github.com/nachi89/demo-project</url> -->
+<!-- 		<connection>scm:git:ssh://github.com:nachi89/demo-project.git</connection> -->
+<!-- 		<developerConnection>scm:git:git@github.com:nachi89/demo-project.git</developerConnection> -->
+<!--     <tag>HEAD</tag> -->
+<!--   </scm> -->
 
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-release-plugin</artifactId>
-				<version>2.5.3</version>
-				<executions>
-					<execution>
-						<id>default</id>
-						<goals>
-							<goal>perform</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
-		</plugins>
-	</build>
+<!-- 	<build> -->
+<!-- 		<plugins> -->
+<!-- 			<plugin> -->
+<!-- 				<groupId>org.apache.maven.plugins</groupId> -->
+<!-- 				<artifactId>maven-release-plugin</artifactId> -->
+<!-- 				<version>2.5.3</version> -->
+<!-- 				<executions> -->
+<!-- 					<execution> -->
+<!-- 						<id>default</id> -->
+<!-- 						<goals> -->
+<!-- 							<goal>perform</goal> -->
+<!-- 						</goals> -->
+<!-- 					</execution> -->
+<!-- 				</executions> -->
+<!-- 			</plugin> -->
+<!-- 		</plugins> -->
+<!-- 	</build> -->
 
 
 </project>
