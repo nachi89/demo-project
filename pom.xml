@@ -9,7 +9,7 @@
 	<scm>
 		<url>https://github.com/nachi89/demo-project</url>
 		<connection>scm:git:ssh://github.com:nachi89/demo-project.git</connection>
-		<developerConnection>scm:git:ssh@github.com:nachi89/demo-project.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:nachi89/demo-project.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
